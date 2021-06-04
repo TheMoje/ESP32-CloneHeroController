@@ -1,8 +1,11 @@
-This is a Guitar Hero guitar on an ESP32
-Is based on ESP32-BLE-Gamepad library's MultipleButtonsDebounce example
+This is a Clone Hero guitar on an ESP32
+
+This was based on ESP32-BLE-Gamepad library's MultipleButtonsDebounce example
 
 Depends on Bounce2 and ESP32-BLE-Gamepad libraries
+
 https://github.com/lemmingDev/ESP32-BLE-Gamepad
+
 https://github.com/thomasfredericks/Bounce2
 
 ESP32_Guitar.ino is an Arduino IDE project file and requires 2 packagese from the Library Manager:
